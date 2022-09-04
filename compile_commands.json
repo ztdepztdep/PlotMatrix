@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ztdep/2T/NetBeansProjects/PlotMatrixtoBMP",
+  "command": "/usr/bin/g++     -std=c++11 -O3 -w -fpermissive -g3 -gdwarf-2   -o CMakeFiles/main.dir/main.cpp.o -c /home/ztdep/2T/NetBeansProjects/PlotMatrixtoBMP/main.cpp",
+  "file": "/home/ztdep/2T/NetBeansProjects/PlotMatrixtoBMP/main.cpp"
+},
+{
+  "directory": "/home/ztdep/2T/NetBeansProjects/PlotMatrixtoBMP",
+  "command": "/usr/bin/g++     -std=c++11 -O3 -w -fpermissive -g3 -gdwarf-2   -o CMakeFiles/main.dir/EasyBMP.cpp.o -c /home/ztdep/2T/NetBeansProjects/PlotMatrixtoBMP/EasyBMP.cpp",
+  "file": "/home/ztdep/2T/NetBeansProjects/PlotMatrixtoBMP/EasyBMP.cpp"
+}
+]

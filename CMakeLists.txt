@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.6)
+project(phasefieldcartesianwheeler)
+SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -O3 -w -fpermissive")
+add_executable(main main.cpp  EasyBMP.cpp)
+target_link_libraries(main )
